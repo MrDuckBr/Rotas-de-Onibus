@@ -1,0 +1,551 @@
+--------- 0 --------
+[[266, 'Rua Dr Francisco Sales', 143]]
+--------- 1 --------
+[[0, 'Rua Monsenhor Aureliano', 96], [2, 'Rua Monsenhor Aureliano', 106]]
+--------- 2 --------
+[[3, 'Rua Monsenhor Aureliano', 125], [7, 'Rua Tomas Antonio Gonzaga', 78]]
+--------- 3 --------
+[[4, 'Rua Monsenhor Aureliano', 100]]
+--------- 4 --------
+[[5, 'Rua Joao Pomarico', 75], [12, 'Rua Joao Pomarico', 80]]
+--------- 5 --------
+[[4, 'Rua Joao Pomarico', 75], [6, 'Rua Doutor Jose Augusto Amaral', 106], [9, ' Rua Joao Pinto Goncalves', 98]]
+--------- 6 --------
+[[3, 'Rua Jose de Souza Andrade', 73], [7, 'Rua Doutor Jose Augusto Amaral', 120]]
+--------- 7 --------
+[[2, 'Rua Tomas Antonio Gonzaga', 78], [8, 'Rua Doutor Jose Augusto Amaral', 110]]
+--------- 8 --------
+[[1, 'Rua Doutor Francisco Salles', 83]]
+--------- 9 --------
+[[5, ' Rua Joao Pinto Goncalves', 98], [10, ' Rua Joao Pinto Goncalves', 40]]
+--------- 10 --------
+[[11, ' Rua Padre JosÃ© Pogel', 51]]
+--------- 11 --------
+[[4, ' Rua Doutor Orlando Hadade', 100], [13, 'Rua Antonio de Padua', 90]]
+--------- 12 --------
+[[4, 'Rua Joao Pomarico', 80], [16, 'Rua Joao Pomarico', 72]]
+--------- 13 --------
+[[11, 'Rua Antonio de Padua', 90]]
+--------- 14 --------
+[[10, 'Rua Padre Bernardo Kaowner', 211], [15, 'Avenida Joao Aurelino', 210]]
+--------- 15 --------
+[[13, 'Rua Doutor Armando Amaral', 75], [16, 'Avenida Joao Aurelino', 155], [14, 'Avenida Joao Aurelino', 210]]
+--------- 16 --------
+[[12, 'Rua Joao Pomarico', 72], [15, 'Avenida Joao Aurelino', 155], [20, 'Rua Padre Luis Tings', 70], [17, 'Avenida Padre Dehon', 306]]
+--------- 17 --------
+[[16, 'Avenida Padre Dehon', 306], [22, 'Rua Missenio Padua', 183], [259, 'Rua Misseno de Padua', 180], [260, 'Travessa Costa Pinto', 113]]
+--------- 18 --------
+[[14, 'Rua Otagibio A. Araujo', 58], [19, 'Rua Padre Frederico Bangder', 261]]
+--------- 19 --------
+[[15, 'Rua Padre Miguel Morreti', 61], [20, 'Rua Padre Frederico Bangder', 165], [18, 'Rua Padre Frederico Bangder', 261]]
+--------- 20 --------
+[[16, 'Rua Padre Luis Tings', 70], [28, 'Rua Padre Luis Tings', 62], [21, 'Rua Horacio de Carvalho', 105], [19, 'Rua Padre Frederico Bangder', 165]]
+--------- 21 --------
+[[29, 'Rua Manoel Carvalho de Souza', 66], [22, 'Rua Horacio de Carvalho', 226], [20, 'Rua Horacio de Carvalho', 105]]
+--------- 22 --------
+[[21, 'Rua Horacio de Carvalho', 226], [41, 'Rua Missenio Padua', 84]]
+--------- 23 --------
+[[18, 'Rua Otagibio A. Araujo', 52], [24, 'Rua Doutor JosÃ© Guadalupe', 175]]
+--------- 24 --------
+[[23, 'Rua Doutor JosÃ© Guadalupe', 175], [33, 'Rua Mauricicio Andrade Rezende', 85], [25, 'Rua irmao Luis', 117]]
+--------- 25 --------
+[[19, 'Rua Padre Miguel Morreti', 61], [24, 'Rua irmao Luis', 117], [34, 'Rua Padre Miguel Morreti', 121], [26, 'Rua Croembrok', 56]]
+--------- 26 --------
+[[25, 'Rua Croembrok', 56], [35, 'Rua Eng. Januario Alvarenga Santos', 152], [27, 'Rua Croembrok', 65]]
+--------- 27 --------
+[[36, 'Rua Joao Teodoro', 205], [28, 'Rua Costa Pereira', 35]]
+--------- 28 --------
+[[20, 'Rua Padre Luis Tings', 62], [27, 'Rua Costa Pereira', 35]]
+--------- 29 --------
+[[28, 'Rua Costa Pereira', 108]]
+--------- 30 --------
+[[29, 'Rua Costa Pereira', 76], [40, 'Rua Procopio Alvarenga', 116]]
+--------- 31 --------
+[[30, 'Rua Costa Pereira', 107], [40, 'Avenida Dra Damina Zakia', 157], [41, 'Rua Costa Pereira', 74]]
+--------- 32 --------
+[[23, 'Rua Otagibio A. Araujo', 70], [33, 'Rua Elbert Vilela', 220]]
+--------- 33 --------
+[[24, 'Rua Mauricicio Andrade Rezende', 85], [32, 'Rua Elbert Vilela', 220], [39, 'Rua Mauricio Andrade Rezende', 41], [34, 'Rua Elbert Vilela', 121]]
+--------- 34 --------
+[[25, 'Rua Padre Miguel Morreti', 121], [33, 'Rua Elbert Vilela', 121], [35, 'Rua Elbert Vilela', 67]]
+--------- 35 --------
+[[34, 'Rua Elbert Vilela', 67], [26, 'Rua Eng. Januario Alvarenga Santos', 152], [36, 'Rua Elbert Vilela', 75]]
+--------- 36 --------
+[[35, 'Rua Elbert Vilela', 75], [27, 'Rua Joao Teodoro', 205], [37, 'Rua Elbert Vilela', 94]]
+--------- 37 --------
+[[36, 'Rua Elbert Vilela', 94], [40, 'Avenida Dra Damina Zakia', 186], [47, 'Rua Franscisco de Paula', 181]]
+--------- 38 --------
+[[32, 'Rua Otagibio A. Araujo', 52], [39, 'Avenida Doutor Silvio Menicucci', 250]]
+--------- 39 --------
+[[38, 'Avenida Doutor Silvio Menicucci', 250], [33, 'Rua Mauricio Andrade Rezende', 41]]
+--------- 40 --------
+[[30, 'Rua Procopio Alvarenga', 116], [31, 'Avenida Dra Damina Zakia', 157]]
+--------- 41 --------
+[[46, 'Rua Missenio Padua', 52], [257, 'Rua Carlota Kemper', 130]]
+--------- 42 --------
+[[40, 'Rua Saturnino de Padua', 42], [45, 'Rua Saturnino de Padua', 84], [43, 'Rua Dr Matheus Carvalho de Souza', 115]]
+--------- 43 --------
+[[65, 'Rua Franscisco Cardoso', 87], [42, 'Rua Dr Matheus Carvalho de Souza', 115], [44, 'Rua Francisco Cardoso', 72]]
+--------- 44 --------
+[[43, 'Rua Francisco Cardoso', 72], [47, 'Rua Venerando Pereira', 101], [49, 'Rua Venerando Pereira', 55]]
+--------- 45 --------
+[[42, 'Rua Saturnino de Padua', 84], [46, 'Rua Venerando Pereira', 158], [49, 'Rua Venerando Pereira', 65], [51, 'Rua Sartunino de Padua', 77]]   
+--------- 46 --------
+[[45, 'Rua Venerando Pereira', 158], [50, 'Rua Missenio Padua', 64]]
+--------- 47 --------
+[[37, 'Rua Franscisco de Paula', 181], [44, 'Rua Venerando Pereira', 101], [48, 'Rua Venerando Pereira', 59]]
+--------- 48 --------
+[[47, 'Rua Venerando Pereira', 59], [54, 'Rua Doutor Silvio Menecucci', 97]]
+--------- 49 --------
+[[44, 'Rua Venerando Pereira', 55], [45, 'Rua Venerando Pereira', 65], [52, 'Rua Edgar Silva', 88]]
+--------- 50 --------
+[[51, 'Rua Benjamin Constant', 139], [55, 'Rua Missenio Padua', 69]]
+--------- 51 --------
+[[45, 'Rua Sartunino de Padua', 77], [52, 'Rua Benjamin Constant', 78], [56, 'Rua Saturnino de Padua', 77]]
+--------- 52 --------
+[[49, 'Rua Edgar Silva', 88], [51, 'Rua Benjamin Constant', 78], [53, 'Rua Benjamin Constant', 40]]
+--------- 53 --------
+[[52, 'Rua Benjamin Constant', 40], [54, 'Rua Joao Mattioli', 215], [57, 'Rua Joao Mattioli', 98]]
+--------- 54 --------
+[[53, 'Rua Joao Mattioli', 215], [59, 'Rua Doutor Silvio Menecucci', 137]]
+--------- 55 --------
+[[56, 'Rua Benedito Valadares', 121], [61, 'Rua Comendador JosÃ© Esteves', 94]]
+--------- 56 --------
+[[51, 'Rua Saturnino de Padua', 77], [57, 'Rua Benedito Valadares', 49], [60, 'Rua Saturnino de Padua', 72]]
+--------- 57 --------
+[[53, 'Rua Joao Mattioli', 98], [56, 'Rua Benedito Valadares', 49], [58, 'Rua Benedito Valadares', 90]]
+--------- 58 --------
+[[57, 'Rua Benedito Valadares', 90], [59, 'Rua Benedito Valadares', 124], [63, 'Rua Dona Emerenciana', 128]]
+--------- 59 --------
+[[58, 'Rua Benedito Valadares', 124], [69, 'Avenida Doutor Silvio Menecucci', 214]]
+--------- 60 --------
+[[56, 'Rua Saturnino de Padua', 72], [62, 'Rua Saturnino de Padua', 44]]
+--------- 61 --------
+[[66, 'Rua Comendador JosÃ© Esteves', 178], [252, 'Rua Des. Alberto Luz', 30]]
+--------- 62 --------
+[[60, 'Rua Saturnino de Padua', 44], [63, 'Rua Treze de Outubro', 125], [64, 'Rua Saturnino de Padua', 26]]
+--------- 63 --------
+[[62, 'Rua Treze de Outubro', 125], [58, 'Rua Dona Emerenciana', 128]]
+--------- 64 --------
+[[67, 'Rua Saturnino de Padua', 102]]
+--------- 65 --------
+[[43, 'Rua Franscisco Cardoso', 87]]
+--------- 66 --------
+[[67, 'Rua Manoel Alves', 50], [68, 'Rua Comendador Jose Esteves', 73]]
+--------- 67 --------
+[[68, 'Rua Saturnino de Padua', 108]]
+--------- 68 --------
+[[71, 'Rua Comendador Jose Esteves', 122], [196, 'Travessa Jose Fabrino', 69]]
+--------- 69 --------
+[[70, 'Rua Dona Maria Mesquita Goulart', 218], [72, 'Avenida Doutor Silvio Menecucci', 25]]
+--------- 70 --------
+[[69, 'Rua Dona Maria Mesquita Goulart', 218], [71, 'Rua Expedicionario Sebastiao Urbano', 68], [73, 'Rua Expedicionario Sebastiao Urbano', 46], [82, 'Rua Prof. Waldemar Novaes', 174]]
+--------- 71 --------
+[[70, 'Rua Expedicionario Sebastiao Urbano', 68]]
+--------- 72 --------
+[[74, 'Rua Renato Aquino de Padua', 25]]
+--------- 73 --------
+[[70, 'Rua Expedicionario Sebastiao Urbano', 46], [78, 'Rua Expedicionario Sebastiao Urbano', 75], [83, 'Rua Afonso Pena', 170]]
+[[76, 'Rua Renato Aquino de Padua', 146]]
+--------- 75 --------
+[]
+--------- 76 --------
+[[77, 'Travessa Boa Esperanca', 23]]
+--------- 77 --------
+[[90, 'Avenida Doutor Silvio Menecucci', 164]]
+--------- 78 --------
+[[73, 'Rua Expedicionario Sebastiao Urbano', 75], [79, 'Rua Expedicionario Sebastiao Urbano', 34], [80, 'Rua Cel. Francisco Antonio dos Santos', 124]]
+--------- 79 --------
+[[78, 'Rua Expedicionario Sebastiao Urbano', 34], [84, 'Rua Expedicionario Sebastiao Urbano', 39], [81, 'Rua Cel. Francisco Antonio dos Santos', 76]]
+--------- 80 --------
+[[81, 'Rua Cel. Francisco Antonio dos Santos', 120]]
+--------- 81 --------
+[[79, 'Rua Cel. Francisco Antonio dos Santos', 76], [89, 'Rua Cel. Francisco Antonio dos Santos', 218]]
+--------- 82 --------
+[[70, 'Rua Prof. Waldemar Novaes', 174], [85, 'Rua Prof Augusto Maximo', 66]]
+--------- 83 --------
+[[73, 'Rua Afonso Pena', 170], [82, 'Rua Prof. Waldemar Novaes', 46]]
+--------- 84 --------
+[[79, 'Rua Expedicionario Sebastiao Urbano', 39], [77, 'Avenida Doutor Silvio Menecucci', 110]]
+--------- 85 --------
+[[82, 'Rua Prof Augusto Maximo', 66], [86, 'Praca Dr Jorge', 60], [184, 'Praca Dr Jorge', 25]]
+--------- 86 --------
+[[87, 'Praca Dr Jorge', 66], [91, 'PraÃ§a Doutor Jorge', 76]]
+--------- 87 --------
+[[88, 'Rua Dr Baker', 95], [91, 'Rua dr Baker', 41]]
+--------- 88 --------
+[[89, 'Rua Dr Baker', 122], [87, 'Rua Dr Baker', 95]]
+--------- 89 --------
+[[90, 'Rua Dr Baker', 40], [88, 'Rua Dr Baker', 122], [92, 'Rua Dr. Baker', 87]]
+--------- 90 --------
+[[92, 'Rua Dr. Baker', 118]]
+--------- 91 --------
+[[164, 'Avenida Pedro Sales', 275], [150, 'Rua do Instituto', 82], [184, 'Rua Praca Doutor Jorge', 114]]
+--------- 92 --------
+[[93, 'Avenida Bueno da Fonseca', 370]]
+--------- 93 --------
+[[92, 'Avenida Bueno da Fonseca', 370], [94, 'Avenida Bueno da Fonseca', 277], [159, 'Rua Dr. Samuel Gammon', 543]]
+--------- 94 --------
+[[93, 'Avenida Bueno da Fonseca', 277], [95, 'Rua Antonio Virgilino', 52], [100, 'Rua Hermogenes R Fonseca', 87]]
+--------- 95 --------
+[[94, 'Rua Antonio Virgilino', 52], [96, 'Rua Mamante Vitorino', 300]]
+--------- 96 --------
+[[97, 'Rua Antonio Virgilino', 90]]
+--------- 97 --------
+[[95, 'Rua Antonio Virgilino', 270], [98, 'Rua Jose Moreira Primeiro', 140]]
+--------- 98 --------
+[[97, 'Rua Jose Moreira Primeiro', 140], [99, 'Rua Jose Cornelo de Oliveira', 380]]
+--------- 99 --------
+[[98, 'Rua Jose Cornelo de Oliveira', 380], [107, 'Rua Jose Cornelo de Oliveira', 102], [109, 'Rua Samuel Abreu e Silva', 77]]
+--------- 100 --------
+[[102, 'Rua Hermogenes R Fonseca', 48], [101, 'Rua Hermogenes R Fonseca', 88]]
+--------- 101 --------
+[[100, 'Rua Hermogenes R Fonseca', 88], [103, 'Rua Hermogenes R Fonseca', 58]]
+--------- 102 --------
+[[101, 'Rua Hermogenes R Fonseca', 51]]
+--------- 103 --------
+[[104, 'Rua Hermogenes R Fonseca', 80]]
+--------- 104 --------
+[[103, 'Rua Hermogenes R Fonseca', 58], [106, 'Rua Samuel Abreu e Silva', 26], [105, 'Rua Hermogenes R Fonseca', 63]]
+--------- 105 --------
+[[104, 'Rua Hermogenes R Fonseca', 63], [106, 'Rua Antonio Augusto Faria', 61]]
+--------- 106 --------
+[[104, 'Rua Samuel Abreu e Silva', 26], [107, 'Rua Antonio Augusto Faria', 150], [105, 'Rua Antonio Augusto Faria', 61], [99, 'Rua Samuel Abreu e 
+Silva', 52]]
+--------- 107 --------
+[[106, 'Rua Antonio Augusto Faria', 150], [99, 'Rua Jose Cornelo de Oliveira', 102]]
+--------- 108 --------
+[[161, 'Rua Humberto Rezende', 52], [118, 'Rua Prof. Firmino Costa', 84]]
+--------- 109 --------
+[[161, 'Rua Humberto Rezende', 47], [110, 'Rua Humberto Rezende', 50], [112, 'Rua Samuel Abreu e Silva', 77]]
+--------- 110 --------
+[[109, 'Rua Humberto Rezende', 47], [111, 'Rua Benedito Silva', 76]]
+--------- 111 --------
+[[110, 'Rua Benedito Silva', 76], [114, 'Rua Benedito Silva', 135], [112, 'Rua Antonio Querino', 50]]
+--------- 112 --------
+[[109, 'Rua Samuel Abreu e Silva', 77], [111, 'Rua Antonio Querino', 52], [113, 'Rua Antonio Querino', 51], [116, 'Rua Samuel Abreu e Silva', 93]]
+--------- 113 --------
+[[161, 'Rua Padre JosÃ© Bento', 81], [112, 'Rua Antonio Querino', 50], [115, 'Rua Padre Jose Bento', 102]]
+--------- 114 --------
+[[111, 'Rua Benedito Silva', 135], [116, 'Rua Benedito Silva', 135]]
+--------- 115 --------
+[[113, 'Rua Padre Jose Bento', 102], [116, 'Rua Santa Terezinha', 56], [117, 'Rua Santa Terezinha', 58]]
+--------- 116 --------
+[[114, 'Rua Benedito Silva', 135], [112, 'Rua Samuel Abreu e Silva', 93], [115, 'Rua Santa Terezinha', 56]]
+--------- 117 --------
+[[115, 'Rua Santa Terezinha', 58], [120, 'Rua Santa Terezinha', 50], [118, 'Rua Prof Firmino Costa', 120]]
+--------- 118 --------
+[[108, 'Rua Prof. Firmino Costa', 84], [117, 'Rua Prof Firmino Costa', 120]]
+--------- 119 --------
+[[120, 'Rua Cap Luis Gomes de Morais', 137]]
+--------- 120 --------
+[[117, 'Rua Santa Terezinha', 50], [119, 'Rua Cap Luis Gomes de Morais', 137], [162, 'Rua Cap Luis Gomes De Morais', 130]]
+--------- 121 --------
+[[122, 'Travessa B', 76]]
+--------- 122 --------
+[[123, 'Rua Joao Goncalves Godinho', 156]]
+--------- 123 --------
+[[125, 'Rua Joao Goncalves Godinho', 317]]
+--------- 124 --------
+[[123, 'Rua Maria Joana de Oliveira', 114]]
+--------- 125 --------
+[[124, 'Rua Jose Mesquita', 275], [126, 'Rua Jose Mesquita', 118]]
+--------- 126 --------
+[[125, 'Rua Jose Mesquita', 118], [127, 'Rua Rufino Alves Costa', 37]]
+--------- 127 --------
+[[126, 'Rua Rufino Alves Costa', 37], [129, 'Rua Rufino Alves Costa', 92]]
+--------- 128 --------
+[[130, 'Avenida Pedro Sales', 93]]
+--------- 129 --------
+[[128, 'Praca Dr Jose Esteves', 130], [131, 'Rua Custodio Moreira', 174]]
+--------- 130 --------
+[[131, 'Av.Vaz Monteiro', 243], [132, 'Avenida Pedro Sales', 185]]
+--------- 131 --------
+[[133, 'Rua Custodio Moreira', 174]]
+--------- 132 --------
+[[160, 'Rua Dos Expedicionarios', 217], [138, 'Avenida Pedro Sales', 295], [133, 'Avenida Vaz Monteiro', 247]]
+--------- 133 --------
+[[132, 'Avenida Vaz Monteiro', 247], [131, 'Rua Custodio Moreira', 174], [134, 'Avenida Vaz Monteiro', 90], [136, 'Rua Custodio Moreira', 112]]   
+--------- 134 --------
+[[133, 'Avenida Vaz Monteiro', 90], [135, 'Avenida Evaristo Gomes Guerra', 184]]
+--------- 135 --------
+[[134, 'Avenida Evaristo Gomes Guerra', 184], [136, 'Rua Dr Samuel Gammon', 107], [141, 'Avenida Evaristo Gomes Guerra', 86]]
+--------- 136 --------
+[[133, 'Rua Custodio Moreira', 112], [137, 'Rua Dr Samuel Gammon', 125], [135, 'Rua Dr Samuel Gammon', 107]]
+--------- 137 --------
+[[138, 'Rua Dr Samuel Gammon', 174], [136, 'Rua Dr Samuel Gammon', 125], [139, 'Rua Cel. Jose Moura Amaral', 94]]
+--------- 138 --------
+[[132, 'Avenida Pedro Sales', 295], [159, 'Rua Dr Samuel Gammon', 190], [137, 'Rua Dr Samuel Gammon', 174], [164, 'Avenida Pedro Sales', 186]]    
+--------- 139 --------
+[[137, 'Rua Cel. Jose Moura Amaral', 94], [143, 'Travessa Santa Rita', 181], [142, 'Rua Cel. JosÃ© Moura Amaral', 100]]
+--------- 140 --------
+[[141, 'Rua Santa Rita', 83], [142, 'Rua Santa Rita', 170], [145, 'Travessa C', 103], [146, 'Rua SÃ£o Francisco Xavier', 217]]
+--------- 141 --------
+[[135, 'Avenida Evaristo Gomes Guerra', 86], [140, 'Rua Santa Rita', 83], [148, 'Avenida Evaristo Gomes Guerra', 91]]
+--------- 142 --------
+[[139, 'Rua Cel. JosÃ© Moura Amaral', 100], [140, 'Rua Santa Rita', 170], [145, 'Rua Cel. Jose Moura Amaral', 57]]
+--------- 143 --------
+[[139, 'Travessa Santa Rita', 181], [155, 'Rua JoÃ£o Crisostomo Pedroso', 76], [144, 'Rua Alferes Franscisco de Azevedo', 178]]
+--------- 144 --------
+[[143, 'Rua Alferes Franscisco de Azevedo', 178], [145, 'Rua Jose Pereira dos Santos', 92], [165, 'Rua Alferes Franscisco de Azevedo', 104]]      
+--------- 145 --------
+[[142, 'Rua Cel. Jose Moura Amaral', 57], [144, 'Rua Jose Pereira dos Santos', 92], [140, 'Travessa C', 103], [158, 'Rua SÃ£o francisco Xavier', 214]]
+--------- 146 --------
+[[158, 'Rua do Instituto', 82], [140, 'Rua SÃ£o Francisco Xavier', 217], [147, 'Rua do Instituto', 50], [171, 'Rua Sao franscisco Xavier', 86]]   
+--------- 147 --------
+[[146, 'Rua do Instituto', 50], [148, 'Rua do Instituto', 50], [169, 'Rua sem Nome', 44]]
+--------- 148 --------
+[[141, 'Avenida Evaristo Gomes Guerra', 91], [147, 'Rua do Instituto', 50], [168, 'Avenida Evaristo Gomes Guerra', 137]]
+--------- 149 --------
+[[152, 'Rua Adolfo SBampato', 40], [150, 'Rua do Instituto', 97], [157, 'Rua do Instituto', 75]]
+--------- 150 --------
+[[151, 'Rua Sete de Setembro', 73], [91, 'Rua do Instituto', 82], [149, 'Rua do Instituto', 97], [183, 'Rua Jose Claudino', 102]]
+--------- 151 --------
+[[154, 'Rua Sete de Setembro', 71], [150, 'Rua Sete de Setembro', 73], [152, 'Rua Alberto Lembi', 83]]
+--------- 152 --------
+[[151, 'Rua Alberto Lembi', 83], [153, 'Rua Adolfo SBampato', 58], [149, 'Rua Adolfo SBampato', 40]]
+--------- 153 --------
+[[155, 'Rua Adolfo SBampato', 100], [154, 'Rua Treze de Maio', 85], [152, 'Rua Adolfo SBampato', 58], [166, 'Rua Treze de Maio', 57], [143, 'Rua Joao Crisostomo Pedroso', 74]]
+--------- 154 --------
+[[156, 'Rua Sete de Setembro', 90], [151, 'Rua Sete de Setembro', 71], [153, 'Rua Treze de Maio', 85]]
+--------- 155 --------
+[[143, 'Rua JoÃ£o Crisostomo Pedroso', 76], [156, 'Rua Joao Crisostomo Pedroso', 74], [153, 'Rua Adolfo SBampato', 100]]
+--------- 156 --------
+[[155, 'Rua Joao Crisostomo Pedroso', 74], [164, 'Rua JoÃ£o Crisostmo Pedroso', 67], [154, 'Rua Sete de Setembro', 90]]
+--------- 157 --------
+[[149, 'Rua do Instituto', 75], [165, 'Rua do Instituto', 64], [180, 'Rua Jose Rosa Botelho', 172]]
+--------- 158 --------
+[[145, 'Rua SÃ£o francisco Xavier', 214], [165, 'Rua do Instituto', 97], [146, 'Rua do Instituto', 82], [173, 'Rua Cel Jose Moura Amaral', 67]]   
+--------- 159 --------
+[[93, 'Rua Dr. Samuel Gammon', 543], [160, 'Rua Evaristo Alvarenga', 65], [138, 'Rua Dr Samuel Gammon', 190]]
+--------- 160 --------
+[[132, 'Rua Dos Expedicionarios', 217], [159, 'Rua Evaristo Alvarenga', 65]]
+--------- 161 --------
+[[109, 'Rua Humberto Rezende', 47], [108, 'Rua Humberto Rezende', 52], [113, 'Rua Padre JosÃ© Bento', 81]]
+--------- 162 --------
+[[120, 'Rua Cap Luis Gomes De Morais', 130], [163, 'Rua Manoel Felipe de Oliveira', 173], [121, 'Rua Manoel Felipe de Oliveira', 117]]
+--------- 163 --------
+[[162, 'Rua Manoel Felipe de Oliveira', 173], [124, 'Rua Maria Joana de Oliveira', 117]]
+--------- 164 --------
+[[156, 'Rua JoÃ£o Crisostmo Pedroso', 67], [138, 'Avenida Pedro Sales', 186]]
+--------- 165 --------
+[[144, 'Rua Alferes Franscisco de Azevedo', 104], [157, 'Rua do Instituto', 64], [158, 'Rua do Instituto', 97], [175, 'Rua Alferes Francisco Alves de Azevedo', 170]]
+--------- 166 --------
+[[153, 'Rua Treze de Maio', 57]]
+--------- 167 --------
+[[167, 'Rua Aleatoria', 999]]
+--------- 168 --------
+[[148, 'Avenida Evaristo Gomes Guerra', 137], [170, 'Rua Cristiano Souza', 57], [201, 'Avenida Evaristo Gomes Guerra', 690]]
+--------- 169 --------
+[[147, 'Rua sem Nome', 44], [171, 'Rua Maestro Cirilo Novaes', 48], [170, 'Rua sem Nome', 87]]
+--------- 170 --------
+[[168, 'Rua Cristiano Souza', 57], [169, 'Rua sem Nome', 87], [172, 'Rua Cristiano Souza', 80]]
+--------- 171 --------
+[[146, 'Rua Sao franscisco Xavier', 86], [169, 'Rua Maestro Cirilo Novaes', 48], [172, 'Rua Sao francisco Xavier', 88], [173, 'Rua Maestro Cirilo 
+Novaes', 86]]
+--------- 172 --------
+[[171, 'Rua Sao francisco Xavier', 88], [173, 'Rua Cristiano Souza', 80], [174, 'Rua Cristiano Souza', 90], [176, 'Rua Franscisco Xavier', 138]]
+--------- 173 --------
+[[158, 'Rua Cel Jose Moura Amaral', 67], [171, 'Rua Maestro Cirilo Novaes', 86], [174, 'Rua Cel Jose Moura Amaral', 85]]
+--------- 174 --------
+[[173, 'Rua Cel Jose Moura Amaral', 85], [172, 'Rua Cristiano Souza', 90], [175, 'Rua Cristiano Souza', 57], [177, 'Rua Cel Jose Moura Amaral', 88]]
+--------- 175 --------
+[[165, 'Rua Alferes Francisco Alves de Azevedo', 170], [174, 'Rua Cristiano Souza', 57], [180, 'Rua Cristiano Souza', 56]]
+--------- 176 --------
+[[172, 'Rua Franscisco Xavier', 138], [177, 'Rua Cel Jose Moura Amaral', 113], [194, 'Rua Sao Francisco Xavier', 166]]
+--------- 177 --------
+[[174, 'Rua Cel Jose Moura Amaral', 88], [176, 'Rua Cel Jose Moura Amaral', 113], [178, 'Rua Julio Sidinei Pinto', 93]]
+--------- 178 --------
+[[177, 'Rua Julio Sidinei Pinto', 93], [179, 'Rua Julio Sidnei Pinto', 47]]
+--------- 179 --------
+[[178, 'Rua Julio Sidnei Pinto', 47], [180, 'Rua Jose Rosa Botelho', 90]]
+--------- 180 --------
+[[157, 'Rua Jose Rosa Botelho', 172], [175, 'Rua Cristiano Souza', 56], [181, 'Rua Cristiano Souza', 123], [179, 'Rua Jose Rosa Botelho', 90]]    
+--------- 181 --------
+[[180, 'Rua Cristiano Souza', 123], [182, 'Rua Cleto Fantazzini', 86], [186, 'Rua Cristiano Souza', 84], [187, 'Rua Cleto Fantazzini', 85]]       
+--------- 182 --------
+[[181, 'Rua Cleto Fantazzini', 86], [183, 'Rua Ferreira da Costa', 88]]
+--------- 183 --------
+[[150, 'Rua Jose Claudino', 102], [186, 'Rua Jose Claudino', 86], [184, 'Rua Ferreira da Costa', 96]]
+--------- 184 --------
+[[85, 'Praca Dr Jorge', 25], [185, 'Praca Dr Jorge', 50]]
+--------- 185 --------
+[[186, 'Rua Cristiano Souza', 100], [189, 'Rua Bernadino Macieira', 108]]
+--------- 186 --------
+[[182, 'Rua Cristiano Souza', 84], [183, 'Rua Jose Claudino', 86], [185, 'Rua Cristiano Souza', 100], [188, 'Rua Jose Claudino', 100]]
+--------- 187 --------
+[[181, 'Rua Cleto Fantazzini', 85], [188, 'Rua Roberto Coimbra', 20]]
+--------- 188 --------
+[[187, 'Rua Roberto Coimbra', 20], [186, 'Rua Jose Claudino', 100], [189, 'Rua Roberto Coimbra', 68]]
+--------- 189 --------
+[[188, 'Rua Roberto Coimbra', 68], [190, 'Rua Bernadino Macieira', 172]]
+--------- 190 --------
+[[192, 'Rua Bernadino Macieira', 290]]
+--------- 191 --------
+[[191, 'Rua Aleatoria2', 999]]
+--------- 192 --------
+[[197, 'Rua Bernadino Macieira', 92]]
+--------- 193 --------
+[[198, 'Travessa Igreija Merces', 31]]
+--------- 194 --------
+[[176, 'Rua Sao Francisco Xavier', 166], [195, 'Rua um', 171], [202, 'Rua Sao Franscisco Xavier', 144]]
+--------- 195 --------
+[[194, 'Rua um', 171], [199, 'Rua Des. Alberto Luz', 53], [200, 'Rua Des. Alberto Luz', 57]]
+--------- 196 --------
+[[190, 'Travessa Jose Fabrino', 86]]
+--------- 197 --------
+[[199, 'Rua Des. Alberto Luz', 271], [251, 'Rua Firmino Sales', 223], [273, 'Rua Des. Alberto Luz', 88]]
+--------- 198 --------
+[[192, 'Rua Gastao Maia', 85], [273, 'Rua Santana', 108]]
+--------- 199 --------
+[[195, 'Rua Des. Alberto Luz', 53], [197, 'Rua Des. Alberto Luz', 271]]
+--------- 200 --------
+[[195, 'Rua Des. Alberto Luz', 57], [215, 'Rua Des. Alberto Luz', 136], [219, 'Rua Dep. Castejon Branco', 76]]
+--------- 201 --------
+[[168, 'Avenida Evaristo Gomes Guerra', 690], [206, 'Rua Francisco Xavier', 40], [231, 'Avenida Juventino Dias Teixeira', 70]]
+--------- 202 --------
+[[203, 'Rua Sao Francisco Xavier', 135], [194, 'Rua Sao Franscisco Xavier', 144], [207, 'Rua Dr. Joao Pizolante', 97]]
+--------- 203 --------
+[[204, 'Rua Sao Franscisco Xavier', 56], [202, 'Rua Sao Francisco Xavier', 135], [207, 'Rua Vinte de Novembro', 70]]
+--------- 204 --------
+[[205, 'Rua Sao Francisco Xavier', 80], [203, 'Rua Sao Franscisco Xavier', 56], [208, 'Rua Jose Maria Azevedo', 95]]
+--------- 205 --------
+[[206, 'Rua Sao Francisco Xavier', 50], [204, 'Rua Sao Francisco Xavier', 80], [209, 'Rua Isaias Gomes de Oliveira', 127]]
+--------- 206 --------
+[[201, 'Rua Francisco Xavier', 40], [205, 'Rua Sao Francisco Xavier', 50], [210, 'Rua Ver. Leonidas Souza Lima', 142]]
+--------- 207 --------
+[[203, 'Rua Vinte de Novembro', 70], [202, 'Rua Dr. Joao Pizolante', 97], [211, 'Rua Vinte de Novembro', 80], [208, 'Rua Dr Joao Pizolante', 62]] 
+--------- 208 --------
+[[204, 'Rua Jose Maria Azevedo', 95], [207, 'Rua Dr Joao Pizolante', 62], [209, 'Rua Dr Joao Pizolante', 64], [212, 'Rua Jose Maria Azevedo', 83]]
+--------- 209 --------
+[[210, 'Rua Joao Pizolante', 54], [205, 'Rua Isaias Gomes de Oliveira', 127], [208, 'Rua Dr Joao Pizolante', 64], [213, 'Rua Isaias Gomes de Oliveira', 84]]
+--------- 210 --------
+[[230, 'Rua Dr Joao Pizolante', 57], [206, 'Rua Ver. Leonidas Souza Lima', 142], [209, 'Rua Joao Pizolante', 54]]
+--------- 211 --------
+[[207, 'Rua Vinte de Novembro', 80], [212, 'Rua Mario de Carvalho', 54], [216, 'Rua Vinte de Novembro', 86], [215, 'Rua Mario de Carvalho', 142]] 
+--------- 212 --------
+[[208, 'Rua Jose Maria Azevedo', 83], [213, 'Rua Mario de Carvalho', 71], [217, 'Rua Jose Maria Azevedo', 84], [211, 'Rua Mario de Carvalho', 54]]
+--------- 213 --------
+[[209, 'Rua Isaias Gomes de Oliveira', 84], [214, 'Rua Dr Joao Pizolante', 55], [218, 'Rua Isaias Gomes de Oliveira', 80], [212, 'Rua Mario de Carvalho', 71]]
+--------- 214 --------
+[[224, 'Rua Mario de Carvalho', 13], [213, 'Rua Dr Joao Pizolante', 55], [223, 'Rua Dr Delfino de Souza', 90]]
+--------- 215 --------
+[[211, 'Rua Mario de Carvalho', 142], [216, 'Rua Expedicionario Venancio de Souza', 57], [219, 'Rua Jose Bernadino de Carvalho', 92], [200, 'Rua Des. Alberto Luz', 136]]
+--------- 216 --------
+[[211, 'Rua Vinte de Novembro', 86], [215, 'Rua Expedicionario Venancio de Souza', 57], [220, 'Rua Vinte de Novembro', 92], [217, 'Rua Expedicionario Venancio de Souza', 60]]
+--------- 217 --------
+[[212, 'Rua Jose Maria Azevedo', 84], [216, 'Rua Expedicionario Venancio de Souza', 60], [221, 'Rua Jose Maria Azevedo', 92], [218, 'Rua Expedicionario Venancio de Souza', 66]]
+--------- 218 --------
+[[213, 'Rua Isaias Gomes de Oliveira', 80], [217, 'Rua Expedicionario Venancio de Souza', 66], [223, 'Rua Expedicionario Venancio de Souza', 38]] 
+--------- 219 --------
+[[215, 'Rua Jose Bernadino de Carvalho', 92], [220, 'Rua Dep. Castejon Branco', 56], [200, 'Rua Dep. Castejon Branco', 76]]
+--------- 220 --------
+[[216, 'Rua Vinte de Novembro', 92], [221, 'Rua Dep. Castejon Branco', 60], [219, 'Rua Dep. Castejon Branco', 56]]
+--------- 221 --------
+[[217, 'Rua Jose Maria Azevedo', 92], [222, 'Rua Dep. Castejon Branco', 74], [220, 'Rua Dep. Castejon Branco', 60]]
+--------- 222 --------
+[[223, 'Rua Dr. Delfino de Souza', 37], [226, 'Rua Joao B do Nascimento', 64], [244, 'Rua Delfino de Souza', 42], [221, 'Rua Dep. Castejon Branco', 74]]
+--------- 223 --------
+[[225, 'Rua Expedicionario Venancio de Souza', 38], [224, 'Rua Dr Delfino de Souza', 94], [214, 'Rua Dr Delfino de Souza', 90], [218, 'Rua Expedicionario Venancio de Souza', 38], [222, 'Rua Dr. Delfino de Souza', 37]]
+--------- 224 --------
+[[236, 'Rua Dep. Jose Marcus Cherem', 140], [225, 'Rua Avelino Giarola', 90], [230, 'Rua Dr. Delfino de Souza', 97], [214, 'Rua Mario de Carvalho', 13], [223, 'Rua Dr Delfino de Souza', 94]]
+--------- 225 --------
+[[229, 'Rua Dep. Jose Marcus Cherem', 73], [224, 'Rua Avelino Giarola', 90], [226, 'Rua Avelino Giarola', 93], [223, 'Rua Expedicionario Venancio 
+de Souza', 38]]
+--------- 226 --------
+[[228, 'Rua Joao B do Nascimento', 54], [225, 'Rua Avelino Giarola', 93], [227, 'Rua Avelino Giarola', 96], [222, 'Rua Joao B do Nascimento', 64]]
+--------- 227 --------
+[[228, 'Rua Pedro Gomide do Nascimento', 58], [226, 'Rua Avelino Giarola', 96], [244, 'Rua Pedro Gomide do Nascimento', 94]]
+--------- 228 --------
+[[238, 'Rua Pedro Gomide do Nascimento', 80], [268, 'Rua Joao B do Nascimento', 80], [227, 'Rua Pedro Gomide do Nascimento', 58], [226, 'Rua Joao 
+B do Nascimento', 54], [229, 'Rua Vitalina Carvalho Abreu', 80]]
+--------- 229 --------
+[[238, 'Rua Profa Zelia Rezende', 67], [228, 'Rua Vitalina Carvalho Abreu', 80], [225, 'Rua Dep. Jose Marcus Cherem', 73]]
+--------- 230 --------
+[[231, 'Rua Dr Delfino de Souza', 153], [232, 'Avenida Juventino Dias Teixeira', 190], [224, 'Rua Dr. Delfino de Souza', 97], [210, 'Rua Dr Joao Pizolante', 57]]
+--------- 231 --------
+[[201, 'Avenida Juventino Dias Teixeira', 70], [232, 'Avenida Juventino Dias Teixeira', 65], [230, 'Rua Dr Delfino de Souza', 153]]
+--------- 232 --------
+[[231, 'Avenida Juventino Dias Teixeira', 65], [230, 'Avenida Juventino Dias Teixeira', 190], [233, 'Avenida Juventino Dias Teixeira', 52]]       
+--------- 233 --------
+[[232, 'Avenida Juventino Dias Teixeira', 52], [234, 'Rua Jose Moreira Lima', 137], [235, 'Avenida Juventino Dias Teixeira', 142]]
+--------- 234 --------
+[[233, 'Rua Jose Moreira Lima', 137], [240, 'Rua Gabriel Bianchini', 70]]
+--------- 235 --------
+[[233, 'Avenida Juventino Dias Teixeira', 142], [241, 'Avenida Juventino Dias Teixeira', 92], [240, 'Rua Jose Pereira de Abreu', 64]]
+--------- 236 --------
+[[240, 'Rua Dep. Jose Marcus Cherem', 68], [237, 'Rua Barbosa Lima', 37], [224, 'Rua Dep. Jose Marcus Cherem', 140]]
+--------- 237 --------
+[[236, 'Rua Barbosa Lima', 37], [238, 'Rua Barbosa Lima', 45]]
+--------- 238 --------
+[[239, 'Rua Pedro Gomide do Nascimento', 90], [237, 'Rua Barbosa Lima', 45], [268, 'Rua Barbosa Lima', 37], [228, 'Rua Pedro Gomide do Nascimento', 80], [229, 'Rua Profa Zelia Rezende', 67]]
+--------- 239 --------
+[[241, 'Rua Pedro Gomide do Nascimento', 160], [268, 'Rua Gabriel Bianchini', 181], [238, 'Rua Pedro Gomide do Nascimento', 90], [240, 'Rua Gabriel Bianchini', 73]]
+--------- 240 --------
+[[235, 'Rua Jose Pereira de Abreu', 64], [239, 'Rua Gabriel Bianchini', 73], [234, 'Rua Gabriel Bianchini', 70], [236, 'Rua Dep. Jose Marcus Cherem', 68]]
+--------- 241 --------
+[[235, 'Avenida Juventino Dias Teixeira', 92], [239, 'Rua Pedro Gomide do Nascimento', 160]]
+--------- 242 --------
+[[199, 'Rua Nicolau Cheren', 240], [243, 'Rua Dr Delfino de Souza', 51], [246, 'Rua Delfino de Souza', 48], [245, 'Rua Nicolau Cherem', 115]]     
+--------- 243 --------
+[[244, 'Rua Dr Delfino de Souza', 52], [242, 'Rua Dr Delfino de Souza', 51], [270, 'Rua Dr. Fernando Haddad', 280]]
+--------- 244 --------
+[[227, 'Rua Pedro Gomide do Nascimento', 94], [222, 'Rua Delfino de Souza', 42], [243, 'Rua Dr Delfino de Souza', 52]]
+--------- 245 --------
+[[242, 'Rua Nicolau Cherem', 115], [249, 'Rua Juca Procopio', 53], [250, 'Rua Juca Procopio', 46]]
+--------- 246 --------
+[[242, 'Rua Delfino de Souza', 48], [247, 'Rua Dr Delfino de Souza', 48], [249, 'Rua Platina', 108]]
+--------- 247 --------
+[[246, 'Rua Dr Delfino de Souza', 48], [248, 'Rua Dr. Helio Andrade', 107], [251, 'Rua Dr. Delfino de Souza', 113]]
+--------- 248 --------
+[[249, 'Rua Juca Procopio', 157], [250, 'Rua Dr. Helio Andrade', 67], [247, 'Rua Dr. Helio Andrade', 107], [271, 'Rua Juca Procopio', 156]]       
+--------- 249 --------
+[[246, 'Rua Platina', 108], [245, 'Rua Juca Procopio', 53], [248, 'Rua Juca Procopio', 157]]
+--------- 250 --------
+[[245, 'Rua Juca Procopio', 46], [248, 'Rua Dr. Helio Andrade', 67], [261, 'Travessa Guadalupe', 153]]
+--------- 251 --------
+[[247, 'Rua Dr. Delfino de Souza', 113], [271, 'Rua Firmino Sales', 83], [256, 'Rua Carlota Kemper', 76]]
+--------- 252 --------
+[[273, 'Rua Des. Alberto Luz', 52]]
+--------- 253 --------
+[[55, 'Rua Benedito Valadares', 84], [257, 'Rua Dona inacia', 102]]
+--------- 254 --------
+[[252, 'Rua Raul Soares', 113], [253, 'Rua Benedito Valadares', 44]]
+--------- 255 --------
+[[251, 'Rua Circinato de Padua', 58], [254, 'Rua Benedito Valadares', 60]]
+--------- 256 --------
+[[251, 'Rua Carlota Kemper', 76], [255, 'Rua Raul Moraes', 87], [254, 'Rua Raul Moraes', 87], [257, 'Rua Carlota Kemper', 14]]
+--------- 257 --------
+[[256, 'Rua Carlota Kemper', 14], [41, 'Rua Carlota Kemper', 130]]
+--------- 258 --------
+[[257, 'Praca Dr. Augusto Silva', 137], [259, 'Rua Dr. Silva Pena', 120], [260, 'Praca Leonardo Venerando Pereira', 53]]
+--------- 259 --------
+[[22, 'Rua Misseno de Padua', 78]]
+--------- 260 --------
+[[261, 'Travessa Guadalupe', 76], [256, 'Praca Leonardo Venerando Pereira', 138], [272, 'Praca Leonardo Venerando Pereira', 66]]
+--------- 261 --------
+[[250, 'Travessa Guadalupe', 153], [262, 'Rua Firmino Sales', 133]]
+--------- 262 --------
+[[263, 'Rua Firmino Sales', 166], [272, 'Rua Cap Valentim Fonseca', 60]]
+--------- 263 --------
+[[265, 'Rua Pedro Moura', 72], [264, 'Rua Firmino Sales', 63]]
+--------- 264 --------
+[[265, 'Rua Barbosa Lima', 41], [266, 'Rua Barbosa Lima', 96]]
+--------- 265 --------
+[[270, 'Rua Barbosa Lima', 225], [263, 'Rua Pedro Moura', 72]]
+--------- 266 --------
+[[267, 'Rua Barbosa Lima', 80]]
+--------- 267 --------
+[[1, 'Rua Misseno de Padua', 144]]
+--------- 268 --------
+[[239, 'Rua Gabriel Bianchini', 181], [238, 'Rua Barbosa Lima', 37], [228, 'Rua Joao B do Nascimento', 80], [269, 'Rua Barbosa Lima', 116]]       
+--------- 269 --------
+[[268, 'Rua Barbosa Lima', 116], [270, 'Rua Barbosa Lima', 60]]
+--------- 270 --------
+[[243, 'Rua Dr. Fernando Haddad', 280], [269, 'Rua Barbosa Lima', 60]]
+--------- 271 --------
+[[261, 'Rua Firmino Sales', 90]]
+--------- 272 --------
+[[0, 'Praca Leonardo Venerando Pereira', 110]]
+--------- 273 --------
+[[255, 'Rua Santana', 124]]
