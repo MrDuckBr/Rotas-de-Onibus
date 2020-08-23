@@ -254,6 +254,7 @@ def inicia():
             else:
                 print("Dados do grafo não carregados.")
         
+        imprimiMenu()
         print("Digite a opção: ", end="")
         
         entrada = int(input())
